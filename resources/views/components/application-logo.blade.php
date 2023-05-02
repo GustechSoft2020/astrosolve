@@ -1,0 +1,1 @@
+<img src="{{ asset('logo/astrosolve.png') }}" alt="Astrosolve" width=200/>
